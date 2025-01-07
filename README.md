@@ -33,11 +33,12 @@ To use the **DragonTrack algorithm**, clone it from (https://github.com/ostadabb
 2. **Adjust the lable format **
 
    Save the GT and output label in this fromat:
+    ```bash
    <frame>, <id>, <bb_left>, <bb_top>, <bb_width>, <bb_height>, <conf>, <class>
-  
+    ```
 
    
-3. ** Validation **
+4. ** Validation **
    
    
      ```bash
